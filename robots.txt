@@ -1,0 +1,6 @@
+# Not the live site. This is a staging or preview build of
+# howbridge-inf.essex.sch.uk and must not be indexed: two copies of a
+# school website competing for the same searches is worse for parents
+# than one.
+User-agent: *
+Disallow: /
