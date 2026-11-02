@@ -125,6 +125,276 @@
   Redirect 301 /add-newsletter-page /news-and-events/newsletters/
   # Upload form
   Redirect 301 /whole-school-news /news-and-events/news/
+  # Reception Newsletter Friday 10th July
+  Redirect 301 /school_news/reception-newsletter-friday-10th-july /news-and-events/newsletters/reception/reception-newsletter-friday-10th-july/
+  # Year 1 Newsletter Friday 10th July 2026
+  Redirect 301 /school_news/year-1-newsletter-friday-10th-july-2026 /news-and-events/newsletters/year-1/year-1-newsletter-friday-10th-july-2026/
+  # Year 2 Newsletter - Friday 10th July 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-10th-july-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-10th-july-2026/
+  # Reception Newsletter - Friday 3rd July 2026
+  Redirect 301 /school_news/reception-newsletter-friday-3rd-july-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-3rd-july-2026/
+  # Year 1 Newsletter Friday 3rd July 2026
+  Redirect 301 /school_news/year-1-newsletter-friday-3rd-july-2026 /news-and-events/newsletters/year-1/year-1-newsletter-friday-3rd-july-2026/
+  # Year 2 Newsletter - Friday 3rd July 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-3rd-july-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-3rd-july-2026/
+  # Reception Newsletter - Friday 26th June 2026
+  Redirect 301 /school_news/reception-newsletter-friday-26th-june-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-26th-june-2026/
+  # Year 1 Newsletter Friday 26th May
+  Redirect 301 /school_news/year-1-newsletter-friday-26th-may /news-and-events/newsletters/year-1/year-1-newsletter-friday-26th-may/
+  # Year 2 Newsletter - Friday 26th June 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-26th-june-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-26th-june-2026/
+  # Reception Newsletter Friday 19th June
+  Redirect 301 /school_news/reception-newsletter-friday-19th-june /news-and-events/newsletters/reception/reception-newsletter-friday-19th-june/
+  # Year 1 Newsletter Friday 19th June
+  Redirect 301 /school_news/year-1-newsletter-friday-19th-june /news-and-events/newsletters/year-1/year-1-newsletter-friday-19th-june/
+  # Year 2 Newsletter - Friday 19th June 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-19th-june-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-19th-june-2026/
+  # Reception Newsletter 12.06.26
+  Redirect 301 /school_news/reception-newsletter-12-06-26 /news-and-events/newsletters/reception/reception-newsletter-12-06-26/
+  # Year 1 Newsletter Friday 12th June 2026
+  Redirect 301 /school_news/year-1-newsletter-friday-12th-june-2026 /news-and-events/newsletters/year-1/year-1-newsletter-friday-12th-june-2026/
+  # Year 2 Newsletter - Friday 12th June 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-12th-june-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-12th-june-2026/
+  # Reception Friday 5th June
+  Redirect 301 /school_news/reception-friday-5th-june /news-and-events/newsletters/reception/reception-friday-5th-june/
+  # Year 1 Newsletter 5th June 2026
+  Redirect 301 /school_news/year-1-newsletter-5th-june-2026 /news-and-events/newsletters/year-1/year-1-newsletter-5th-june-2026/
+  # Year 2 Newsletter - Friday 5th June 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-5th-june-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-5th-june-2026/
+  # Reception Newsletter -22.5.26
+  Redirect 301 /school_news/reception-newsletter-22-5-26 /news-and-events/newsletters/reception/reception-newsletter-22-5-26/
+  # Year 1 Newsletter Friday 22nd May 2026
+  Redirect 301 /school_news/year-1-newsletter-friday-22nd-may-2026 /news-and-events/newsletters/year-1/year-1-newsletter-friday-22nd-may-2026/
+  # Year 2 Newsletter - 22nd June 2026
+  Redirect 301 /school_news/year-2-newsletter-22nd-june-2026 /news-and-events/newsletters/year-2/year-2-newsletter-22nd-june-2026/
+  # Reception Friday 15th May
+  Redirect 301 /school_news/reception-friday-15th-may /news-and-events/newsletters/reception/reception-friday-15th-may/
+  # Year 1 Newsletter 15th May
+  Redirect 301 /school_news/year-1-newsletter-15th-may /news-and-events/newsletters/year-1/year-1-newsletter-15th-may/
+  # Year 2 Newsletter - Friday 15th May 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-15th-may-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-15th-may-2026/
+  # Reception Newsletter Friday 8th May
+  Redirect 301 /school_news/reception-newsletter-friday-8th-may /news-and-events/newsletters/reception/reception-newsletter-friday-8th-may/
+  # Year 1 Newsletter 8th May 2026
+  Redirect 301 /school_news/year-1-newsletter-8th-may-2026 /news-and-events/newsletters/year-1/year-1-newsletter-8th-may-2026/
+  # Year 2 Newsletter - Friday 8th May 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-8th-may-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-8th-may-2026/
+  # Reception Newsletter - Friday 1st May 2026
+  Redirect 301 /school_news/reception-newsletter-friday-1st-may-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-1st-may-2026/
+  # Year 1 Newsletter Friday 1st May 2026
+  Redirect 301 /school_news/year-1-newsletter-friday-1st-may-2026 /news-and-events/newsletters/year-1/year-1-newsletter-friday-1st-may-2026/
+  # Year 2 Newsletter Friday 1st May 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-1st-may-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-1st-may-2026/
+  # Reception Newsletter - Friday 24th April 2026
+  Redirect 301 /school_news/reception-newsletter-friday-24th-april-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-24th-april-2026/
+  # Year 1 Newsletter 24th April 2026
+  Redirect 301 /school_news/year-1-newsletter-24th-april-2026 /news-and-events/newsletters/year-1/year-1-newsletter-24th-april-2026/
+  # Year 2 Newsletter - Friday 24th April 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-24th-april-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-24th-april-2026/
+  # Reception News- 17th April
+  Redirect 301 /school_news/reception-news-17th-april /news-and-events/newsletters/reception/reception-news-17th-april/
+  # Year 1 Newsletter 17th April 2026
+  Redirect 301 /school_news/year-1-newsletter-17th-april-2026 /news-and-events/newsletters/year-1/year-1-newsletter-17th-april-2026/
+  # Year 2 Newsletter - Friday 17th April 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-17th-april-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-17th-april-2026/
+  # Reception Newsletter Friday 27th March
+  Redirect 301 /school_news/reception-newsletter-friday-27th-march /news-and-events/newsletters/reception/reception-newsletter-friday-27th-march/
+  # Year 1 Newsletter 27th March 2026
+  Redirect 301 /school_news/year-1-newsletter-27th-march-2026 /news-and-events/newsletters/year-1/year-1-newsletter-27th-march-2026/
+  # Year 2 Newsletter 27th March 2026
+  Redirect 301 /school_news/year-2-newsletter-27th-march-2026 /news-and-events/newsletters/year-2/year-2-newsletter-27th-march-2026/
+  # Reception Newsletter Friday 20th March
+  Redirect 301 /school_news/reception-newsletter-friday-20th-march /news-and-events/newsletters/reception/reception-newsletter-friday-20th-march/
+  # Year 1 Newsletter 20th March 2026
+  Redirect 301 /school_news/year-1-newsletter-20th-march-2026 /news-and-events/newsletters/year-1/year-1-newsletter-20th-march-2026/
+  # Year 2 Newsletter Friday 20th March 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-20th-march-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-20th-march-2026/
+  # Reception 13th March 2026
+  Redirect 301 /school_news/reception-13th-march-2026 /news-and-events/newsletters/reception/reception-13th-march-2026/
+  # Year 1 Newsletter 13th March 2026
+  Redirect 301 /school_news/year-1-newsletter-13th-march-2026 /news-and-events/newsletters/year-1/year-1-newsletter-13th-march-2026/
+  # Year 2 Newsletter - Friday 13th March 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-13th-march-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-13th-march-2026/
+  # Reception Newsletter Friday 6th March 2026
+  Redirect 301 /school_news/reception-newsletter-friday-6th-march-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-6th-march-2026/
+  # Year 1 Newsletter 6th March 2026
+  Redirect 301 /school_news/year-1-newsletter-6th-march-2026 /news-and-events/newsletters/year-1/year-1-newsletter-6th-march-2026/
+  # Year 2 Newsletter 6th March 2026
+  Redirect 301 /school_news/year-2-newsletter-6th-march-2026 /news-and-events/newsletters/year-2/year-2-newsletter-6th-march-2026/
+  # Reception Newsletter - Friday 27th February 2026
+  Redirect 301 /school_news/reception-newsletter-friday-27th-february-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-27th-february-2026/
+  # Year 1 Newsletter 27/02/26
+  Redirect 301 /school_news/year-1-newsletter-27-02-26 /news-and-events/newsletters/year-1/year-1-newsletter-27-02-26/
+  # Year 2 Newsletter - Friday 27th February 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-27th-february-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-27th-february-2026/
+  # Reception Newsletter - Friday 13th February 2026
+  Redirect 301 /school_news/reception-newsletter-friday-13th-february-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-13th-february-2026/
+  # Year 1 Newsletter 13th February 2026
+  Redirect 301 /school_news/year-1-newsletter-13th-february-2026 /news-and-events/newsletters/year-1/year-1-newsletter-13th-february-2026/
+  # Year 2 Newsletter - Friday 13th February 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-13th-february-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-13th-february-2026/
+  # Reception Newsletter - Friday 6th February 2026
+  Redirect 301 /school_news/reception-newsletter-friday-6th-february-2026 /news-and-events/newsletters/reception/reception-newsletter-friday-6th-february-2026/
+  # Year 1 Newsletter 6th February 2026
+  Redirect 301 /school_news/year-1-newsletter-6th-february-2026 /news-and-events/newsletters/year-1/year-1-newsletter-6th-february-2026/
+  # Year 2 Newsletter Friday 6th February
+  Redirect 301 /school_news/year-2-newsletter-friday-6th-february /news-and-events/newsletters/year-2/year-2-newsletter-friday-6th-february/
+  # Reception Friday 30th January
+  Redirect 301 /school_news/reception-friday-30th-january /news-and-events/newsletters/reception/reception-friday-30th-january/
+  # Year 1 Newsletter 30th January 2026
+  Redirect 301 /school_news/year-1-newsletter-30th-january-2026 /news-and-events/newsletters/year-1/year-1-newsletter-30th-january-2026/
+  # Year 2 Newsletter Friday 30th January
+  Redirect 301 /school_news/year-2-newsletter-friday-30th-january /news-and-events/newsletters/year-2/year-2-newsletter-friday-30th-january/
+  # Reception Friday 23rd January 2026
+  Redirect 301 /school_news/reception-friday-23rd-january-2026 /news-and-events/newsletters/reception/reception-friday-23rd-january-2026/
+  # Year 1 Newsletter 23rd January 2026
+  Redirect 301 /school_news/year-1-newsletter-23rd-january-2026 /news-and-events/newsletters/year-1/year-1-newsletter-23rd-january-2026/
+  # Year 2 Newsletter 23rd January 2026
+  Redirect 301 /school_news/year-2-newsletter-23rd-january-2026 /news-and-events/newsletters/year-2/year-2-newsletter-23rd-january-2026/
+  # Reception Friday 16th January 2026
+  Redirect 301 /school_news/reception-friday-16th-january-2026 /news-and-events/newsletters/reception/reception-friday-16th-january-2026/
+  # Year 1 Newsletter 16th January 2026
+  Redirect 301 /school_news/year-1-newsletter-16th-january-2026 /news-and-events/newsletters/year-1/year-1-newsletter-16th-january-2026/
+  # Year 2 Friday 16th January 2026
+  Redirect 301 /school_news/year-2-friday-16th-january-2026 /news-and-events/newsletters/year-2/year-2-friday-16th-january-2026/
+  # Reception Friday 9th January
+  Redirect 301 /school_news/reception-friday-9th-january /news-and-events/newsletters/reception/reception-friday-9th-january/
+  # Year 1 Newsletter 9th January 2026
+  Redirect 301 /school_news/year-1-newsletter-9th-january-2026 /news-and-events/newsletters/year-1/year-1-newsletter-9th-january-2026/
+  # Year 2 Newsletter Friday 9th January 2026
+  Redirect 301 /school_news/year-2-newsletter-friday-9th-january-2026 /news-and-events/newsletters/year-2/year-2-newsletter-friday-9th-january-2026/
+  # Reception Newsletter - Friday 12th December
+  Redirect 301 /school_news/reception-newsletter-friday-12th-december /news-and-events/newsletters/reception/reception-newsletter-friday-12th-december/
+  # Year 1 Newsletter 12th December 2025
+  Redirect 301 /school_news/year-1-newsletter-12th-december-2025 /news-and-events/newsletters/year-1/year-1-newsletter-12th-december-2025/
+  # Year 2 Newsletter Friday 12th December 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-12th-december-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-12th-december-2025/
+  # Reception Newsletter - Friday 5th December
+  Redirect 301 /school_news/reception-newsletter-friday-5th-december /news-and-events/newsletters/reception/reception-newsletter-friday-5th-december/
+  # Year 1 Newsletter 5th December 2025
+  Redirect 301 /school_news/year-1-newsletter-5th-december-2025 /news-and-events/newsletters/year-1/year-1-newsletter-5th-december-2025/
+  # Year 2 Newsletter Friday 5th December 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-5th-december-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-5th-december-2025/
+  # Reception Friday 28th November
+  Redirect 301 /school_news/reception-friday-28th-november /news-and-events/newsletters/reception/reception-friday-28th-november/
+  # Year 1 Newsletter 28/11/25
+  Redirect 301 /school_news/year-1-newsletter-28-11-25 /news-and-events/newsletters/year-1/year-1-newsletter-28-11-25/
+  # Year 2 Newsletter 28th November 2025
+  Redirect 301 /school_news/year-2-newsletter-28th-november-2025 /news-and-events/newsletters/year-2/year-2-newsletter-28th-november-2025/
+  # Reception Newsletter Friday 21st November
+  Redirect 301 /school_news/friday-21st-november /news-and-events/newsletters/reception/friday-21st-november/
+  # Year 1 Newsletter 21st November 2025
+  Redirect 301 /school_news/year-1-newsletter-21st-november-2025 /news-and-events/newsletters/year-1/year-1-newsletter-21st-november-2025/
+  # Year 2 Newsletter - Friday 21st November 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-21st-november-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-21st-november-2025/
+  # Reception Newsletter Friday 14th November
+  Redirect 301 /school_news/reception-friday-14th-november /news-and-events/newsletters/reception/reception-friday-14th-november/
+  # Year 1 Newsletter Friday 14th November
+  Redirect 301 /school_news/year-1-newsletter-friday-14th-november /news-and-events/newsletters/year-1/year-1-newsletter-friday-14th-november/
+  # Year 2 Newsletter - 14th November 2025
+  Redirect 301 /school_news/year-2-newsletter-14th-november-2025 /news-and-events/newsletters/year-2/year-2-newsletter-14th-november-2025/
+  # Reception Newsletter 7th November 2025
+  Redirect 301 /school_news/reception-newsletter-7th-november-2025 /news-and-events/newsletters/reception/reception-newsletter-7th-november-2025/
+  # Year 1 Newsletter 7th November 2025
+  Redirect 301 /school_news/year-1-newsletter-7th-november-2025 /news-and-events/newsletters/year-1/year-1-newsletter-7th-november-2025/
+  # Year 2 Newsletter - Friday 7th November 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-7th-november-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-7th-november-2025/
+  # Reception - Friday 24th October 2025
+  Redirect 301 /school_news/reception-friday-24th-october /news-and-events/newsletters/reception/reception-friday-24th-october/
+  # Year 1 Newsletter - Friday 24th October 2025
+  Redirect 301 /school_news/year-1-newsletter-friday-24th-october-2025 /news-and-events/newsletters/year-1/year-1-newsletter-friday-24th-october-2025/
+  # Year 2 Newsletter - Friday 24th October 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-24th-october-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-24th-october-2025/
+  # Reception Newsletter - Friday 17th October 2025
+  Redirect 301 /school_news/reception-newsletter-friday-17th-october-2025 /news-and-events/newsletters/reception/reception-newsletter-friday-17th-october-2025/
+  # Year 1 Newsletter - Friday 17th October 2025
+  Redirect 301 /school_news/year-1-newsletter-friday-17th-october-2025 /news-and-events/newsletters/year-1/year-1-newsletter-friday-17th-october-2025/
+  # Year 2 Newsletter - Friday 17th October 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-17th-october-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-17th-october-2025/
+  # Reception Newsletter - 10th October 2025
+  Redirect 301 /school_news/reception-newsletter-10th-october-2025 /news-and-events/newsletters/reception/reception-newsletter-10th-october-2025/
+  # Year 1 Newsletter - 10th October 2025
+  Redirect 301 /school_news/year-1-newsletter-10th-october-2025 /news-and-events/newsletters/year-1/year-1-newsletter-10th-october-2025/
+  # Year 2 Newsletter - Friday 10th October 2025
+  Redirect 301 /school_news/year-2-newsletter-friday-10th-october-2025 /news-and-events/newsletters/year-2/year-2-newsletter-friday-10th-october-2025/
+  # Reception Newsletter - 3rd October 2025
+  Redirect 301 /school_news/reception-newsletter-3rd-october-2025 /news-and-events/newsletters/reception/reception-newsletter-3rd-october-2025/
+  # Year 1 Newsletter - 3rd October 2025
+  Redirect 301 /school_news/year-1-newsletter-3rd-october-2025 /news-and-events/newsletters/year-1/year-1-newsletter-3rd-october-2025/
+  # Year 2 Newsletter - 3rd October 2025
+  Redirect 301 /school_news/year-2-newsletter-3rd-october-2025 /news-and-events/newsletters/year-2/year-2-newsletter-3rd-october-2025/
+  # Reception Newsletter - Friday 26th September 2025
+  Redirect 301 /school_news/reception-newsletter-friday-26th-september-2025 /news-and-events/newsletters/reception/reception-newsletter-friday-26th-september-2025/
+  # Year 1 Newsletter - 26th September 2025
+  Redirect 301 /school_news/year-1-newsletter-26th-september-2025 /news-and-events/newsletters/year-1/year-1-newsletter-26th-september-2025/
+  # Year 2 Newsletter - 26th September 2025
+  Redirect 301 /school_news/year-2-newsletter-26th-september-2025 /news-and-events/newsletters/year-2/year-2-newsletter-26th-september-2025/
+  # Reception Newsletter - 19th September 2025
+  Redirect 301 /school_news/reception-newsletter-19th-september-2025 /news-and-events/newsletters/reception/reception-newsletter-19th-september-2025/
+  # Year 1 Newsletter - 19th September 2025
+  Redirect 301 /school_news/year-1-newsletter-19th-september-2025 /news-and-events/newsletters/year-1/year-1-newsletter-19th-september-2025/
+  # Year 2 Newsletter - 19th September 2025
+  Redirect 301 /school_news/year-2-newsletter-19th-september-2025 /news-and-events/newsletters/year-2/year-2-newsletter-19th-september-2025/
+  # Reception Newsletter - Friday 12th September 2025
+  Redirect 301 /school_news/reception-newsletter-friday-12th-september-2025 /news-and-events/newsletters/reception/reception-newsletter-friday-12th-september-2025/
+  # Year 1 Newsletter 12th September
+  Redirect 301 /school_news/year-1-newsletter-12th-september /news-and-events/newsletters/year-1/year-1-newsletter-12th-september/
+  # Year 2 Newsletter -12th September 2025
+  Redirect 301 /school_news/year-2-newsletter-12th-september-2025 /news-and-events/newsletters/year-2/year-2-newsletter-12th-september-2025/
+  # Reception Newsletter - Friday 18th July 2025
+  Redirect 301 /school_news/reception-newsletter-friday-18th-july-2025 /news-and-events/newsletters/reception/reception-newsletter-friday-18th-july-2025/
+  # Reception Newsletter- 11th July 2025
+  Redirect 301 /school_news/reception-newsletter-11th-july-2025 /news-and-events/newsletters/reception/reception-newsletter-11th-july-2025/
+  # Year 1 Newsletter - 11th July 2025
+  Redirect 301 /school_news/year-1-newsletter-11th-july-2025 /news-and-events/newsletters/year-1/year-1-newsletter-11th-july-2025/
+  # Year 2 Newsletter - 11th July 2025
+  Redirect 301 /school_news/year-2-newsletter-11th-july-2025 /news-and-events/newsletters/year-2/year-2-newsletter-11th-july-2025/
+  # Reception Newsletter - 4th July 2025
+  Redirect 301 /school_news/reception-newsletter-4th-july-2025 /news-and-events/newsletters/reception/reception-newsletter-4th-july-2025/
+  # Year 1 Newsletter - 4th July 2025
+  Redirect 301 /school_news/year-1-newsletter-4th-july-2025 /news-and-events/newsletters/year-1/year-1-newsletter-4th-july-2025/
+  # Year 2 Newsletter- 4th July 2025
+  Redirect 301 /school_news/year-2-newsletter-4th-july-2025 /news-and-events/newsletters/year-2/year-2-newsletter-4th-july-2025/
+  # Issue 7
+  Redirect 301 /school_news/issue-7 /news-and-events/news/
+  # Whole school Newsletter issue 6
+  Redirect 301 /school_news/whole-school-newsletter-issue-6 /news-and-events/news/
+  # Issue 5
+  Redirect 301 /school_news/issue-5 /news-and-events/news/
+  # Issue 4
+  Redirect 301 /school_news/issue-4 /news-and-events/news/
+  # Issue 3 October 2025 Whole School Newsletter
+  Redirect 301 /school_news/issue-3-october-2025-whole-school-newsletter /news-and-events/news/
+  # Children In Need
+  Redirect 301 /school_news/children-in-need /news-and-events/news/
+  # Whole School Newsletter - Issue 2
+  Redirect 301 /school_news/whole-school-newsletter-issue-2 /news-and-events/news/
+  # Bring a Stick to School Day- October 2025
+  Redirect 301 /school_news/bring-a-stick-to-school-day /news-and-events/news/
+  # Harvest Festival 2025
+  Redirect 301 /school_news/http-howbridge-inf-essex-sch-uk-wp-content-uploads-2025-09-harvest-festival-letter-2025-1-pdf /news-and-events/news/
+  # Autumn 2025 Welcome Newsletter
+  Redirect 301 /school_news/autumn-2025-welcome-newsletter /news-and-events/news/
+  # Governors Welcome Newsletter
+  Redirect 301 /school_news/governors-welcome-newsletter /news-and-events/news/
+  # Little Wandle Workshop
+  Redirect 301 /school_news/little-wandle-worksop /news-and-events/news/
+  # Reception Baseline Assessment
+  Redirect 301 /school_news/reception-baseline-assessment /news-and-events/news/
+  # Pupil Premium Letter
+  Redirect 301 /school_news/pupil-premium-letter /news-and-events/news/
+  # Individual Photos 2025
+  Redirect 301 /school_news/individual-photos-2025 /news-and-events/news/
+  # Macmillan Coffee Morning - EYFS Letter
+  Redirect 301 /school_news/macmillan-coffee-morning-eyfs-letter /news-and-events/news/
+  # Macmillan Coffee Morning - KS1 Letter
+  Redirect 301 /school_news/macmillan-coffee-morning-ks1-letter /news-and-events/news/
+  # Mr Nourish Birthday Menu
+  Redirect 301 /school_news/mr-nourish-birthday-menu /news-and-events/news/
+  # Whole School Newsletter- Issue 1
+  Redirect 301 /school_news/issue-1 /news-and-events/news/
+  # Whole School Newsletter - Issue 11
+  Redirect 301 /school_news/whole-school-newsletter-issue-11 /news-and-events/news/
 
 </IfModule>
 
